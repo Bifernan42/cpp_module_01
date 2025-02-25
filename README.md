@@ -1,7 +1,6 @@
 # Second C++ assignment
 
-## Concepts :
-[C++ memory managment, stack vs. heap, pointers vs. references]
+## Concepts : [C++ memory managment, stack vs. heap, pointers vs. references]
 
 In this second assignment, we had to :
 - implement a Zombie class to learn memory allocation in C++
